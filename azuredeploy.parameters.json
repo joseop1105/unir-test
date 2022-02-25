@@ -27,7 +27,7 @@
       "value": "Arc-Data-LA"
     },
     "deploySQLMI": {
-      "value": "true"
+      "value": true
     },
     "SQLMIHA": {
       "value": "false"
